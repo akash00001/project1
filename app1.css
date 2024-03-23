@@ -1,3 +1,9 @@
+body{
+    height: 100%;
+    width: 100%;
+   
+}
+
 button.btn[data-v-f3fb3dc8] {
     display: inline-block;
     font-weight: 300;
@@ -425,7 +431,4 @@ svg[data-v-f3fb3dc8] {
 }
 
 
-.fa fa-file-pdf-o:before{
-    content: "\f1c1";
-}
 
